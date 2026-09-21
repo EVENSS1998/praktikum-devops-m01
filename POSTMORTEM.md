@@ -1,6 +1,9 @@
+<<<<<<< HEAD
 # Blameless Postmortem - Insiden Kegagalan Deployment Manual
 
 ## Ringkasan Insiden
+=======
+>>>>>>> 360691eee935165b78155ec5ea81b341d05accbd
 Tim Operations mengalami kegagalan saat mencoba menjalankan layanan aplikasi secara manual akibat tidak adanya berkas pengunci dependensi (`requirements.txt`) dan instruksi penyiapan virtual environment.
 
 ## Kronologi (timeline)
