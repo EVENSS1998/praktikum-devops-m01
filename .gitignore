@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 .venv/
 __pycache__/
 *.pyc
@@ -5,3 +6,10 @@ __pycache__/
 *.log
 app.log
 ringkasan-log.txt
+=======
+.venv/ 
+__pycache__/ 
+*.pyc 
+.env 
+*.log 
+>>>>>>> 9694f8ad489ff1d79b265cc6f3199bbffd2bed1e
