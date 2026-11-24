@@ -1,0 +1,9 @@
+services:
+  app:
+    restart: always
+    environment:
+      BUILD_ID: production
+    deploy:
+      resources:
+        limits:
+          memory: 256M
